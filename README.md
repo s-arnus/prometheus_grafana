@@ -6,7 +6,7 @@ Project to run Prometheus and Grafana with Docker Compose. Tested on a single Ra
  - Docker-compose is installed
 
 
-## Starting the services
+## Starting and running the services
 
 To start in the foreground:
 ```
@@ -23,7 +23,14 @@ Show status of containers:
 docker-compose ps
 ```
 
+## Terminating the service
+Stop and remove all containers, images, volumes:
+```
+docker-compose down
+```
+
 ## References
 Some materials that were used in the creation of content in this repository:
  - https://prometheus.io/docs/guides/cadvisor/
  - https://grafana.com/docs/grafana/latest/installation/docker/
+ - https://hub.docker.com/r/zcube/cadvisor
