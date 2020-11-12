@@ -36,3 +36,4 @@ Some materials that were used in the creation of content in this repository:
  - https://hub.docker.com/r/zcube/cadvisor
  - https://github.com/vegasbrianc/prometheus
  - https://grafana.com/grafana/dashboards/11600
+ - https://prometheus.io/docs/prometheus/latest/getting_started/
