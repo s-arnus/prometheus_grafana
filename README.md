@@ -37,3 +37,7 @@ Some materials that were used in the creation of content in this repository:
  - https://github.com/vegasbrianc/prometheus
  - https://grafana.com/grafana/dashboards/11600
  - https://prometheus.io/docs/prometheus/latest/getting_started/
+ - https://dev.to/project42/install-grafana-influxdb-telegraf-using-docker-compose-56e9
+ - https://github.com/influxdata/telegraf/tree/master/plugins/outputs/prometheus_client
+ - https://github.com/influxdata/telegraf/tree/master/plugins/inputs/file
+ - https://github.com/influxdata/telegraf/tree/master/plugins/parsers/json
